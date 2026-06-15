@@ -47,7 +47,7 @@ The skills practiced in this lab directly relate to SOC Analyst, Cybersecurity A
 
 ### Reporting and Escalation
 
-![Reporting and Escalation](screenshots/Reporting&Escalation.png)
+![Reporting and Escalation](screenshots/Reporting%26Escalation.png)
 
 ### Escalation Steps
 
