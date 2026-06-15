@@ -36,3 +36,16 @@ This room improved my understanding of SOC operations and strengthened my abilit
 ## Career Relevance
 
 The skills practiced in this lab directly relate to Security Operations Center (SOC) Analyst and Cybersecurity Analyst responsibilities.
+## Screenshots
+
+### Room Overview
+![SOC L1 Alert Triage](screenshots/SOC%20L1%20Alert%20Triage.png)
+
+### Alert Statuses and Severity
+![Alert Statuses](screenshots/Alert%20Statuses.png)
+
+### Investigation Process
+![Investigation Examples](screenshots/Investigation%20Examples.png)
+
+### Alert Triage Workflow
+![Triage Workflows](screenshots/Triage%20Workflows.png)
