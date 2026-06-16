@@ -14,3 +14,24 @@ This TryHackMe room introduced the Unified Kill Chain framework and explained ho
 - Threat hunting concepts
 
 ## Screenshots
+## Screenshots
+
+### Introduction
+
+![](Introduction.png)
+
+### Unified Kill Chain Framework
+
+![](Unifiedkillchain.png)
+
+### Foothold Phase
+
+![](Foothold.png)
+
+### Through Goal Phase
+
+![](ThroughGoal.png)
+
+### Actions on Objectives
+
+![](TheOUTgoal.png)
