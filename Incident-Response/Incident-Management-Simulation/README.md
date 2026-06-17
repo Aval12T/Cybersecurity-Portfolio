@@ -26,6 +26,8 @@ This project demonstrates the application of the NIST 800-61 Incident Response L
 * Security Documentation
 * Communication and Reporting
 
-## Full Project Report
+## Project Documentation
 
-📄 [Download Full Report](./7-1%20Milestone%20Three%20Incident%20Management%20Simulation%203.docx)
+This project simulates the management of a cybersecurity incident using established incident response methodologies. The exercise includes incident identification, analysis, containment, eradication, recovery, and post-incident documentation while demonstrating communication and decision-making throughout the response process.
+
+📄 [View Full Incident Management Simulation](Incident-Management-Simulation.docx)
