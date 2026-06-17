@@ -34,4 +34,7 @@ This project explores the Social Engineering Toolkit (SET) and demonstrates how 
 ## Key Takeaways
 
 Understanding social engineering techniques helps security professionals identify, prevent, and respond to attacks that target human behavior rather than technical vulnerabilities.
+## Lab Evidence
 
+### Social Engineering Toolkit (SET) Lab
+![Social Engineering Toolkit Lab](social-engineering-toolkit-lab.png)
