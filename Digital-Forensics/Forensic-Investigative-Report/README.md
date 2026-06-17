@@ -23,4 +23,8 @@ This project documents a digital forensic investigation involving evidence colle
 * Chain of Custody
 * Investigative Analysis
 * Technical Reporting
+## Project Documentation
 
+This report documents a structured digital forensic investigation, including evidence collection, evidence preservation, analysis, findings, and recommendations. The project demonstrates the application of forensic methodologies to support cybersecurity investigations and incident response activities.
+
+📄 [View Full Forensic Investigative Report](Investigative-Report.docx)
