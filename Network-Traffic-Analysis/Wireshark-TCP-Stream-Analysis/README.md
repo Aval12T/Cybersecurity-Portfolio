@@ -30,3 +30,16 @@ Analyze network traffic using Wireshark to identify communications, credentials,
 - Network Traffic Monitoring
 - Protocol Analysis
 - Security Investigation
+## Analysis Results
+
+### ARP Packet Analysis
+![ARP Packet Analysis](arp-packet-analysis.png)
+
+### Plaintext Email Analysis
+![Plaintext Email Analysis](plaintext-email-analysis.png)
+
+### POP3 Password Analysis
+![POP3 Password Analysis](pop3-password-analysis.png)
+
+### TCP Stream Analysis
+![TCP Stream Analysis](tcp-stream-analysis.png)
