@@ -1,23 +1,31 @@
-# Incident Management Simulation
+# # Incident Management Simulation
 
 ## Overview
 
-This project demonstrates incident management procedures through a simulated cybersecurity incident. The exercise focuses on coordination, communication, escalation procedures, and stakeholder responsibilities during a security event.
+This project demonstrates the application of the NIST 800-61 Incident Response Lifecycle to a simulated cybersecurity incident. The exercise focused on identifying, containing, eradicating, and recovering from security events while documenting findings and response actions.
+
+## Objectives
+
+* Apply incident response methodologies
+* Analyze security incidents and their impact
+* Develop containment and remediation strategies
+* Document findings and recommendations
+* Practice security event investigation
+
+## Tools and Frameworks
+
+* NIST 800-61
+* Incident Response Procedures
+* Security Event Analysis
 
 ## Skills Demonstrated
 
 * Incident Response
-* Incident Coordination
-* Escalation Procedures
-* Security Operations
-* Team Communication
-* Risk Management
+* Threat Analysis
+* Risk Assessment
+* Security Documentation
+* Communication and Reporting
 
-## Deliverables
+## Full Project Report
 
-* Incident Management Simulation Report
-
-## Key Takeaways
-
-Effective incident response requires coordination between technical teams, leadership, legal stakeholders, and communications personnel to ensure timely containment and recovery.
-
+📄 [Download Full Report](./7-1%20Milestone%20Three%20Incident%20Management%20Simulation%203.docx)
