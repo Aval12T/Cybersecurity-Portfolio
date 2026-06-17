@@ -33,4 +33,16 @@ This project demonstrates the use of Snort as a Network Intrusion Detection Syst
 * Log Analysis
 * Threat Detection
 * SOC Operations
+## Detection Results
 
+### Snort Alert Review
+![Snort Alert Review](snort-alert-review.png)
+
+### Snort Email Alert
+![Snort Email Alert](snort-email-alert.png)
+
+### Snort Log Monitoring
+![Snort Log Monitoring](snort-log-monitoring.png)
+
+### Telnet Alert Detection
+![Telnet Alert Detection](telnet-alert-detection.png)
