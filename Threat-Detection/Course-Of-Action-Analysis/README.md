@@ -28,4 +28,6 @@ This project analyzes adversary actions throughout the attack lifecycle and iden
 * Defensive Strategy
 * Security Operations
 * Risk Mitigation
+## Project Documentation
 
+📄 [View Course of Action Table](Course-of-Action-Table.docx)
