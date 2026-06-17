@@ -34,10 +34,15 @@ Review the attached journal for detailed investigative notes, observations, meth
 
 ## Deliverable
 
-- Digital Forensics Journal.docx
+- Digital-Forensics-Journal.docx
 
 ## Key Takeaways
 
 - Proper documentation is essential during forensic investigations.
 - Detailed investigative records improve evidence reliability and reporting accuracy.
 - Maintaining an organized forensic journal supports repeatable and defensible investigations.
+## Project Documentation
+
+This journal documents forensic observations, investigative procedures, evidence collection activities, and analysis findings throughout the digital forensics process.
+
+📄 [View Full Digital Forensics Journal](./Digital-Forensics-Journal.docx)
