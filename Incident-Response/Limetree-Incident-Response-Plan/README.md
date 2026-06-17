@@ -19,4 +19,6 @@ This project presents an incident response plan designed to improve organization
 ## Key Takeaways
 
 A structured incident response process helps organizations reduce the impact of cybersecurity incidents and improve recovery outcomes.
+## Project Documentation
 
+📄 [View Full Limetree Incident Response Plan](Limetree-IRP.docx)
